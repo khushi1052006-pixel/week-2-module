@@ -2,7 +2,7 @@ Module -2
 Topic - Sorting and searching algorithm
 Student Details:- 
 Name: Khushi Kumari 
-Course: B.Tech (AIML.)
+Course: B.Tech CSE (AIML.)
 
 Programs:- 
 •Fraud Transaction Detection (Linear Search)
